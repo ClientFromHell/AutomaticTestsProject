@@ -1,8 +1,5 @@
-import time
-
 from .base_page import BasePage
 from .locators import LoginPageLocators
-from selenium.webdriver.common.by import By
 
 
 class LoginPage(BasePage):
