@@ -3,7 +3,6 @@ attrs==22.1.0
 certifi==2022.6.15
 charset-normalizer==2.1.1
 h11==0.13.0
-idna==3.3
 iniconfig==1.1.1
 outcome==1.2.0
 packaging==21.3
