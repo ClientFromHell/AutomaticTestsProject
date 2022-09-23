@@ -9,3 +9,4 @@ def test_if_login_page_has_login_url(browser):
     page.go_to_login_page()
     login_page = LoginPage(browser, browser.current_url)
     login_page.should_be_login_page()
+
